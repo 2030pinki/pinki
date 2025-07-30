@@ -1,1 +1,2 @@
 # pinki
+author - pinki polist 
