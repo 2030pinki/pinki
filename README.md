@@ -1,7 +1,7 @@
 # pinki
 author - pinki polist 
 <br>
- hello from muanana 
+ hello
  1
  2
  A
